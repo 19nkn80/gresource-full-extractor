@@ -1,5 +1,5 @@
 #!/bin/bash
-# Extrahiert eine gresource-Datei vollständig
+# Extrahiert eine gresource-Datei vollständig in ein Verzeichnis / Extracts a gresource file completely into a directory
 
 set -e
 
